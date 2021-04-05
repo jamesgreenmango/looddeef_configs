@@ -1,0 +1,5 @@
+{
+    "BaseURL": "https://sport.xwin.info",
+    "LoDeURL": "https://api-sg.apixld.com/",
+    "LoDeUrlWS": "wss://wssport.xwin.info/websocket"
+}
