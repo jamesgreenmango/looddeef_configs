@@ -1,5 +1,6 @@
 {
     "BaseURL": "https://sport.xwin.info",
     "LoDeURL": "https://api-sg.apixld.com/",
-    "LoDeUrlWS": "wss://wssport.xwin.info/websocket"
+    "LoDeUrlWS": "wss://wssport.xwin.info/websocket",
+    "RefreshTokenURL" : "https://api.vinclub-shopify.com/id?command=refreshToken&refreshToken="
 }
