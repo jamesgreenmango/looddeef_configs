@@ -1,0 +1,6 @@
+{
+    "BaseURL": "https://sport.tikwin-alipay.com",
+    "LoDeURL": "https://api-sg.apixld.com/",
+    "LoDeUrlWS": "wss://wssport.tikwin-alipay.com/websocket",
+    "RefreshTokenURL" : "https://api.tikwin-alipay.com/id?command=refreshToken&refreshToken="
+}
