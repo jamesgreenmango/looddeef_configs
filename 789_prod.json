@@ -1,6 +1,6 @@
 {
-    "BaseURL": "https://sport.xeui.io.com",
+    "BaseURL": "https://sport.xeui.io",
     "LoDeURL": "https://api-sg.apixld.com/",
-    "LoDeUrlWS": "wss://wssport.xeui.io.com/websocket",
+    "LoDeUrlWS": "wss://wssport.xeui.io/websocket",
     "RefreshTokenURL" : "https://api.xeui.io/id?command=refreshToken&refreshToken="
 }
