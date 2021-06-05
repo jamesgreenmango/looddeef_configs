@@ -1,6 +1,6 @@
 {
-    "BaseURL": "https://sport.tikwin-alipay.com",
+    "BaseURL": "https://sport.xeui.io.com",
     "LoDeURL": "https://api-sg.apixld.com/",
-    "LoDeUrlWS": "wss://wssport.tikwin-alipay.com/websocket",
+    "LoDeUrlWS": "wss://wssport.xeui.io.com/websocket",
     "RefreshTokenURL" : "https://api.xeui.io/id?command=refreshToken&refreshToken="
 }
