@@ -1,6 +1,6 @@
 {
-    "BaseURL": "https://sport.vinclub-shopify.com",
+    "BaseURL": "https://sport.swinamz.com",
     "LoDeURL": "https://api-sg.apixld.com/",
-    "LoDeUrlWS": "wss://wssport.vinclub-shopify.com/websocket",
-    "RefreshTokenURL" : "https://api.vinclub-shopify.com/id?command=refreshToken&refreshToken="
+    "LoDeUrlWS": "wss://wssport.swinamz.com/websocket",
+    "RefreshTokenURL" : "https://api.swinamz.com/id?command=refreshToken&refreshToken="
 }
