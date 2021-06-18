@@ -1,6 +1,6 @@
 {
-    "BaseURL": "https://sport.swinamz.com",
+    "BaseURL": "https://sport.swincloud.net",
     "LoDeURL": "https://api-sg.apixld.com/",
-    "LoDeUrlWS": "wss://wssport.swinamz.com/websocket",
-    "RefreshTokenURL" : "https://api.swinamz.com/id?command=refreshToken&refreshToken="
+    "LoDeUrlWS": "wss://wssport.swincloud.net/websocket",
+    "RefreshTokenURL" : "https://api.swincloud.net/id?command=refreshToken&refreshToken="
 }
