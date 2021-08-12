@@ -1,6 +1,6 @@
 {
     "BaseURL": "https://sport.mangun.io",
-    "LoDeURL": "https://rng-api.vergo.dev",
+    "LoDeURL": "https://api-rng.apixld.com",
     "LoDeUrlWS": "wss://wssport.mangun.io/websocket",
     "RefreshTokenURL" : "https://api.mangun.io/id?command=refreshToken&refreshToken="
 }
