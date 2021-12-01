@@ -2,5 +2,6 @@
     "BaseURL": "https://sport.swinshop.net",
     "LoDeURL": "https://api-sg.quayso.club/",
     "LoDeUrlWS": "wss://wssport.swinshop.net/websocket",
-    "RefreshTokenURL" : "https://api.swinshop.net/id?command=refreshToken&refreshToken="
+    "RefreshTokenURL" : "https://api.swinshop.net/id?command=refreshToken&refreshToken=",
+    "MainModeOff": ["lô trượt"]
 }
