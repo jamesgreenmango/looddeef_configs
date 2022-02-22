@@ -1,0 +1,6 @@
+{
+    "BaseURL": "https://sport.mangun.io",
+    "LoDeURL": "https://api-sg.quayso.club/",
+    "LoDeUrlWS": "wss://wssport.mangun.io/websocket",
+    "RefreshTokenURL" : "https://api.mangun.io/id?command=refreshToken&refreshToken="
+}
