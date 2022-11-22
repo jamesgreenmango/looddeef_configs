@@ -1,7 +1,7 @@
 {
-    "BaseURL": "https://sport.swincc.io",
+    "BaseURL": "https://sport.swindd.io",
     "LoDeURL": "https://api-sg.quayso.club/",
-    "LoDeUrlWS": "wss://wssport.swincc.io/websocket",
-    "RefreshTokenURL" : "https://api.swincc.io/id?command=refreshToken&refreshToken=",
+    "LoDeUrlWS": "wss://wssport.swindd.io/websocket",
+    "RefreshTokenURL" : "https://api.swindd.io/id?command=refreshToken&refreshToken=",
     "MainModeOff": []
 }
