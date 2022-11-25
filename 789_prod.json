@@ -1,7 +1,7 @@
 {
-    "BaseURL": "https://sport.xeuicc.io",
+    "BaseURL": "https://sport.xeuidd.io",
     "LoDeURL": "https://api-sg.quayso.club/",
-    "LoDeUrlWS": "wss://wssport.xeuicc.io/websocket",
-    "RefreshTokenURL" : "https://api.xeuicc.io/id?command=refreshToken&refreshToken=",
+    "LoDeUrlWS": "wss://wssport.xeuidd.io/websocket",
+    "RefreshTokenURL" : "https://api.xeuidd.io/id?command=refreshToken&refreshToken=",
     "MainModeOff": []
 }
