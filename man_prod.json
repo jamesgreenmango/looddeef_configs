@@ -1,6 +1,6 @@
 {
     "BaseURL": "https://sport.mangcc.io",
-    "LoDeURL": "https://api-sg.quayso.club/",
+    "LoDeURL": "https://api-sg.quayso.live/",
     "LoDeUrlWS": "wss://wssport.mangcc.io/websocket",
     "RefreshTokenURL" : "https://api.mangcc.io/id?command=refreshToken&refreshToken="
 }
